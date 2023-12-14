@@ -1,73 +1,169 @@
-小猪佩奇,http://baiducdncmn2.inter.iqiyi.comtslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
+南京少儿[1280*720],http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?zzhed
+浙江少儿[1920*1080],http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8?zzhed
+福州少儿[1920*1080],http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/360p.m3u8?zzhed
 
-金鹰卡通,http://111.20.33.93/TVOD/88888888/224/3221225744/index.m3u8
 
-北京卡酷少儿,http://111.20.33.93/TVOD/88888888/224/3221225743/index.m3u8
+央视(回）,#genre#
 
-福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8?zfud
 
-甘肃少儿,http://39.134.32.102:6610/270000001111/1110000327/index.m3u8?IASHttpSessionId=OTT
 
-韩国EBS少儿童,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
+CCTV1,http://39.134.66.48/PLTV/88888888/224/3221225816/index.m3u8
 
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+CCTV1,http://39.134.67.226/PLTV/88888888/224/3221225816/index.m3u8
 
-倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
+CCTV1,http://39.134.65.179/PLTV/88888888/224/3221225816/1.m3u8
 
-反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
+CCTV2,http://219.140.56.34:3333/tsfile/live/0002_1.m3u8
 
-福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+CCTV3,http://219.140.56.34:3333/tsfile/live/0003_1.m3u8
 
-猫和老鼠,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c52_lb_83_600_t10/c52_lb_83_600_t10.m3u8?key=0b292c335e5837e94e2f0ba45f46717fa
+CCTV4,http://219.140.56.34:3333/tsfile/live/1004_1.m3u8
 
-童年经典,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_211_600_t10/c57_lb_211_600_t10.m3u8?key=0f2a06793124310bce6ba95fc0ac76131
+CCTV6,http://219.140.56.34:3333/tsfile/live/1006_1.m3u8
 
-玩具乐园,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_175_600_t10/c54_lb_175_600_t10.m3u8?key=051d9240247766709d65dde3fcd5cd7bb
+CCTV7,http://39.134.65.181/PLTV/88888888/224/3221225671/1.m3u8
 
-怀旧动画,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8?key=0b292c335e5837e943a226d3c381f872a
+CCTV7,http://39.134.65.164/PLTV/88888888/224/3221225671/1.m3u8
 
-巧虎,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_135_600_t10/c55_lb_135_600_t10.m3u8?key=0f2a06793124310bcefefdf4e48b17f9a
+CCTV7,http://219.140.56.34:3333/tsfile/live/1007_1.m3u8
 
-小猪佩奇,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
+CCTV8,http://39.134.66.48/PLTV/88888888/224/3221225795/index.m3u8
 
-宝宝课堂,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_225_600_t10/c57_lb_225_600_t10.m3u8?key=0b292c335e5837e94abaa8d3135e83ce3
+CCTV8,http://39.134.65.177/PLTV/88888888/224/3221225795/1.m3u8
+CCTV9,http://219.140.56.34:3333/tsfile/live/1009_1.m3u8
 
-奥特曼,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_210_600_t10/c57_lb_210_600_t10.m3u8?key=0b292c335e5837e94abe4b846218bbc95
+CCTV9,http://39.134.65.173/PLTV/88888888/224/3221225676/1.m3u8
 
-喜羊羊,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_91_1080P_t10/c55_lb_91_1080P_t10.m3u8?key=0b292c335e5837e943e554ef181bdcec1
+CCTV9,http://39.134.66.48/PLTV/88888888/224/3221225676/index.m3u8
 
-名贞探柯南,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525
+CCTV9,http://39.134.65.179/PLTV/88888888/224/3221225676/1.m3u8
 
-动画小天地,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
+CCTV10,http://219.140.56.34:3333/tsfile/live/0010_1.m3u8
 
-兔小贝尔歌,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_136_600_t10/c54_lb_136_600_t10.m3u8?key=0b292c335e5837e94ae056154862a578b
+CCTV10,http://39.134.65.183/PLTV/88888888/224/3221225677/1.m3u8
 
-儿童乐园,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_215_600_t10/c57_lb_215_600_t10.m3u8?key=0b292c335e5837e943410c2bfa7a7387e
+CCTV10,http://39.134.66.48/PLTV/88888888/224/3221225677/index.m3u8
 
-儿歌大全,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_242_600_t10/c57_lb_242_600_t10.m3u8?key=0f2a06793124310bc8499ebf63370c51a
+CCTV10,http://39.134.65.179/PLTV/88888888/224/3221225677/1.m3u8
 
-倒霉熊,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_140_600_t10/c54_lb_140_600_t10.m3u8?key=0f2a06793124310bccc587b5da61b57da
+CCTV11,http://219.140.56.34:3333/tsfile/live/1011_1.m3u8
 
-亲子小游戏,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_178_600_t10/c56_lb_178_600_t10.m3u8?key=0b292c335e5837e94ffc1113a2140b54
+CCTV11,http://39.134.66.48/PLTV/88888888/224/3221225517/index.m3u8
 
-亲子启蒙,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_213_600_t10/c57_lb_213_600_t10.m3u8?key=0f2a06793124310bc21adebc9f02a9735
+CCTV11,http://39.134.65.183/PLTV/88888888/224/3221225517/1.m3u8
 
-狮子王国,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
+CCTV11,http://39.134.65.179/PLTV/88888888/224/3221225517/1.m3u8
 
-倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
+CCTV12,http://219.140.56.34:3333/tsfile/live/0012_1.m3u8
 
-反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
+CCTV12,http://39.134.65.173/PLTV/88888888/224/3221225669/1.m3u8
 
-云朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
+CCTV12,http://39.134.65.166/PLTV/88888888/224/3221225669/1.m3u8
 
-熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
+CCTV13,http://219.140.56.34:3333/tsfile/live/1013_1.m3u8
 
-熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
+CCTV13,http://39.134.65.141/PLTV/88888888/224/3221225812/1.m3u8
 
-猪侠英雄,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
+CCTV13,http://39.134.65.173/PLTV/88888888/224/3221225812/1.m3u8
+
+CCTV14,http://39.134.65.142/PLTV/88888888/224/3221225674/index.m3u8
+
+CCTV14,http://39.134.65.183/PLTV/88888888/224/3221225674/1.m3u8
+
+CCTV14,http://39.134.65.173/PLTV/88888888/224/3221225674/1.m3u8
+
+CCTV15,http://219.140.56.34:3333/tsfile/live/1015_1.m3u8
+
+CCTV15,http://39.134.65.173/PLTV/88888888/224/3221225513/1.m3u8
+
+CCTV15,http://39.134.66.48/PLTV/88888888/224/3221225513/index.m3u8
+
+CCTV15,http://39.134.65.183/PLTV/88888888/224/3221225513/1.m3u8
+
+CCTV15,http://39.134.65.175/PLTV/88888888/224/3221225513/1.m3u8
+
+CCTV17,http://219.140.56.34:3333/tsfile/live/0019_1.m3u8
+
+超级电视剧,http://39.134.65.183/PLTV/88888888/224/3221225637/1.m3u8
+
+世界地理,http://42.176.185.28:9901/tsfile/live/1037_1.m3u8
+
+
+
+
+
+
+
+地方,#genre#
+
+
+
+湖北卫视,http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8
+
+湖南卫视,http://39.134.65.181/PLTV/88888888/224/3221225506/1.m3u8
+
+湖南卫视,http://39.134.65.183/PLTV/88888888/224/3221225506/1.m3u8
+
+浙江卫视,http://39.134.65.179/PLTV/88888888/224/3221225514/1.m3u8
+
+浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+
+东方卫视,http://39.134.65.179/PLTV/88888888/224/3221225672/1.m3u8
+
+东方卫视,http://39.134.65.173/PLTV/88888888/224/3221225672/1.m3u8
+
+北京卫视,http://39.134.65.173/PLTV/88888888/224/3221225678/1.m3u8
+
+北京卫视,http://39.134.65.179/PLTV/88888888/224/3221225678/1.m3u8
+
+江苏卫视,http://39.134.65.173/PLTV/88888888/224/3221225503/1.m3u8
+
+江苏卫视,http://39.134.65.183/PLTV/88888888/224/3221225503/1.m3u8
+
+深圳卫视,http://39.134.66.110/PLTV/88888888/224/3221225668/index.m3u8
+
+河南卫视,http://39.134.66.110/PLTV/88888888/224/3221225988/index.m3u8
+
+天津卫视,http://39.134.65.166/PLTV/88888888/224/3221225665/1.m3u8
+
+山东卫视,http://39.134.65.141/PLTV/88888888/224/3221225952/1.m3u8
+
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
+
+贵州卫视,http://39.134.66.110/PLTV/88888888/224/3221225974/index.m3u8
+
+贵州卫视,http://39.134.65.149/PLTV/88888888/224/3221225974/index.m3u8
+东南卫视,http://39.134.66.4/PLTV/88888888/224/3221225950/index.m3u8
+
+内蒙古卫视,http://39.134.65.164/PLTV/88888888/224/3221225577/1.m3u8
+
+西藏藏语卫视,http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8
+
+点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
+
+苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+
+
+
+
+
+
+
+
+港澳台1,#genre#
+
+ 
+
+面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8 
+
+澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
+大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+
+ 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8 
+
+番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
