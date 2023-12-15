@@ -1,4 +1,3 @@
-
 央视(回）,#genre#
 CCTV1,http://39.134.66.48/PLTV/88888888/224/3221225816/index.m3u8
 CCTV1,http://39.134.67.226/PLTV/88888888/224/3221225816/index.m3u8
@@ -313,12 +312,12 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 河源综艺,http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8?_upt=407e01941606112151?zguangd
 河源公共,http://tmpstream.hyrtv.cn/hygg/playlist.m3u8?_upt=c9befc281606112199?zguangd
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8?zguangd
+阳江综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b3628000.m3u8?zguangd
 阳江综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b1152000.m3u8?zguangd
 阳江综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_w1166501356_b928000.m3u8?zguangd
-l阳江综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b3628000.m3u8?zguangd
+阳江公共,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b3628000.m3u8?zguangd
 阳江公共,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b1152000.m3u8?zguangd
 阳江公共,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_w551261166_b928000.m3u8?zguangd
-阳江公共,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b3628000.m3u8?zguangd
 
 
 🌵北京,#genre#
@@ -404,7 +403,7 @@ l阳江综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b362800
 遂昌综合频道,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed
 松阳综合频道,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?zzhed
 云和新闻综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
-田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
+青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
 宁波-余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
 宁波-象山综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed
 
@@ -450,7 +449,6 @@ EZTV6福州频道,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=166081
 厦门三套,http://39.135.55.7:6610/PLTV/88888888/224/3221226760/index.m3u8?servicetype=1&IASHttpSessionId=OTT?zfud
 厦门三套,http://39.135.55.105:6610/PLTV/88888888/224/3221226760/index.m3u8?servicetype=1?zfud
 莆田新闻综合,http://39.135.55.7:6610/PLTV/88888888/224/3221227161/index.m3u8?servicetype=1&IASHttpSessionId=OTT?zfud
-建宁综合,https://p2.weizan.cn/2144741973/075444991326676404/live.m3u8?zfud
 泉州新闻综合,http://39.135.55.7:6610/PLTV/88888888/224/3221227165/index.m3u8?servicetype=1&IASHttpSessionId=OTT?zfud
 泉州新闻综合,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227165/index.m3u8
 漳州新闻综合,http://39.135.55.7:6610/PLTV/88888888/224/3221227169/index.m3u8?servicetype=1&IASHttpSessionId=OTT?zfud
