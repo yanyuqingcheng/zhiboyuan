@@ -305,11 +305,13 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 🌺🌺广东,#genre#
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721?zguangd
+梅州综合,http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv1.m3u8?zguangd
+梅州二套,http://pili-live-rtmp.tvliving.gdmztv.com/
 深圳东部,https://lglivepull.sznews.com/live/2646.m3u8?zguangd
 韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8?zguangd
 韶关公共,https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8?zguangd
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?zguangd
-河源综艺,http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8?_upt=407e01941606112151?zguangd
+河源综合,http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8?_upt=407e01941606112151?zguangd
 河源公共,http://tmpstream.hyrtv.cn/hygg/playlist.m3u8?_upt=c9befc281606112199?zguangd
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8?zguangd
 阳江综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b3628000.m3u8?zguangd
